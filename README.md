@@ -1,2 +1,2 @@
-# data_science
+# deep_learning
 Just some data science projects.
